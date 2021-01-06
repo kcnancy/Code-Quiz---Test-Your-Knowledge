@@ -2,7 +2,7 @@
 var questions = [
     {
         title: "Commonly used data types DO NOT include:",
-        choices: ["strings", "booleans", "alerts", "numbers"],
+        choices: ["alerts","strings", "booleans", "numbers"],
         answer: "alerts"
     },
     {
@@ -31,7 +31,6 @@ var questions = [
 var score = 0;
 var questionIndex = 0;
 
-// Start working code 
 // Declared variables
 var currentTime = document.querySelector("#currentTime");
 var timer = document.querySelector("#startTime");
@@ -49,7 +48,7 @@ var ulCreate = document.createElement("ul");
 
 // Triggers timer on button, shows user a display on the screen
 timer.addEventListener("click", function () {
-    // We are checking zero because its originally set to zero
+    // checking zero because it is originally set to zero
     if (holdInterval === 0) {
         holdInterval = setInterval(function () {
             secondsLeft--;
