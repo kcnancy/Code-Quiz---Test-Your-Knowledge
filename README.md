@@ -11,19 +11,19 @@ There is a link in the upper left corner to the High Scores page. Scores are rec
 
 Once the user clicks Start the first of 5 questions appears and the time begins. 
 
-![First Question](assets/Firstquestionshowingtimerinupperright.png)
+![First Question](assets/Firstquestionshowingtimerinupperright.PNG)
 
 Once the user clicks their answer, the view advances to the next question. Below the answer choices for the new question is the correct or wrong message from the previous question. The timer updates based on the right or wrong answer.
 
 Correct Answer screen shot -
-![Correct Answer](assets/answercorrect.png)
+![Correct Answer](assets/answercorrect.PNG)
 
 Incorrect Answer screen shot -
-![Incorrect Answer](assts/incorrectanswer.png)
+![Incorrect Answer](assets/incorrectanswer.png)
 
 This continues until either the timer expires or all 5 questions are answered. The final quiz screen displays 'All Done!' and the final score is diplayed along with a box to enter your initials. Once the Submit button is activated the user is taken to the HighScores page.
 
-![All Done!](assets/alldone.png)
+![All Done!](assets/Alldone.png)
 
 The Highscores page shows initials and scores in descending order. Buttons at the bottom of the scores will clear the highscores or Go Back to the Start the quiz screen. 
 
