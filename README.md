@@ -7,7 +7,7 @@ This code will start when the user activates the "start quiz' button.
 The start box explains that this is a timed quiz with  seconds per question. If a question is answered incorrectly 10 seconds will be subtracted from their score. 
 There is a link in the upper left corner to the High Scores page. Scores are recorded with user initials until cleared.
 
-![Start Screen](Startscreencapture.png)
+![Start Screen](/Startscreencapture.png)
 
 Once the user clicks Start the first of 5 questions appears and the time begins. 
 
