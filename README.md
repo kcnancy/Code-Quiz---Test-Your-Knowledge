@@ -16,7 +16,7 @@ Once the user clicks Start the first of 5 questions appears and the time begins.
 Once the user clicks their answer, the view advances to the next question. Below the answer choices for the new question is the correct or wrong message from the previous question. The timer updates based on the right or wrong answer.
 
 Correct Answer screen shot -
-![Correct Answer](assets/answercorrect.PNG)
+![Correct Answer](assets/answercorrect.png)
 
 Incorrect Answer screen shot -
 ![Incorrect Answer](assets/incorrectanswer.png)
